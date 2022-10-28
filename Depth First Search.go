@@ -1,7 +1,7 @@
 /*
  * Author: Max Base
  * Date: 2022-10-28
- * Name:  Depth First Search (DFS) Algorithm
+ * Name: Depth First Search (DFS) Algorithm
  */
 
 package main

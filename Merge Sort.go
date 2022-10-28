@@ -1,7 +1,7 @@
 /*
  * Author: Max Base
  * Date: 2022-10-28
- * Name:  Merge Sort Algorithm
+ * Name: Merge Sort Algorithm
  */
 
 package main
