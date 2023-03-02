@@ -1,7 +1,3 @@
-/*
- * Author: Arda Atci
- */
-
 package main
 
 import "fmt"
